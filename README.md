@@ -1,2 +1,4 @@
-# 4b-absen-pertemuan-4
-Repositori ini berisi absensi pertemuan 4 kelas 4B
+# Daftar Hadir Praktikum 4B Pertemuan 4
+Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
+
+- [Nama Lengkap] | [NPM]
